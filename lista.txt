@@ -1,5 +1,6 @@
 Lista de integrantes:
-Pedro
-Samuel
-Andrea Perez Vargas
-Iver
+
+- Leon Aguilar Pedro Luis
+- Mamani Tarquino Samuel Walter
+- Perez Vargas Andrea
+- Plata Zonco Iver Franz
